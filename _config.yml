@@ -6,18 +6,17 @@ url: "https://deight93.github.io/"
 theme_settings:
   # Meta
   title: Deight
-  avatar: deight8311@gmail.com
+  avatar: assets/img/avatar.png
   favicon: 
   gravatar: 
   description: "Deight Blog." # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Welcome to my blog.</p>
   header_text_feature_image:
   footer_text: >
+   Deight © 2018
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
