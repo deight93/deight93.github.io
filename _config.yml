@@ -16,7 +16,7 @@ theme_settings:
      <p>Welcome to my blog.</p>
   header_text_feature_image: assets/img/sample_feature_img_3.png
   footer_text: >
-   "Deight © 2018"
+   <a>Deight © 2018</a>
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
