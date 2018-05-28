@@ -6,7 +6,7 @@ url: "https://deight93.github.io/"
 theme_settings:
   # Meta
   title: Deight
-  avatar: assets/img/avatar.png
+  avatar: #assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: deight8311@gmail.com
   description: "Deight Blog." # used by search engines
