@@ -15,6 +15,11 @@ Content Cell  | Content Cell
 
 Here's an example of an image, which is included using Markdown:
 
+``` This is a normal paragraph: This is a code block. end code block. ```
+
+    gi  gi  gi  gi  gi gg gg g
+dsdsd!!!!3123123123
+
 ![Geometric pattern with fading gradient]({{ site.baseurl }}/assets/img/sample_feature_img_2.png)
 
 Highlighting for code in Jekyll is done using Pygments or Rouge. This theme makes use of Rouge by default.
