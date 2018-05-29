@@ -31,6 +31,16 @@ while (j < 20) {
     j++;
     console.log(j);
 }
+
+//python
+
+import numpy
+
+print("hi")
+b = 1
+c = 2
+a = b + c
+print(a)
 {% endhighlight %}
 
 Type Theme uses KaTeX to display maths. Equations such as $$S_n = a \times \frac{1-r^n}{1-r}$$ can be displayed inline.
